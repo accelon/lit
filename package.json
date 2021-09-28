@@ -1,0 +1,21 @@
+{
+  "name": "openlit",
+  "version": "1.0.0",
+  "description": "open lit in accelon format",
+  "type": "module",
+  "main": "books.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yapcheahshen@github.com/accelon/openlit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/accelon/openlit/issues"
+  },
+  "homepage": "https://github.com/accelon/openlit#readme"
+}
