@@ -1,0 +1,11 @@
+﻿{
+    "name":"lit",
+    "title": "開放文學",
+    "maintainer": "yapcheahshen@gmail.com",
+    "license": "CC0",
+    "rootdir":"zip/",
+    "errata":"errata.json",
+    "eudc":"eudc.json",
+    "format":"lit",
+    "files":["lit_6.zip","lit_12.zip","lit_14.zip","lit_19.zip"]
+}
