@@ -3,9 +3,16 @@
     "title": "開放文學",
     "maintainer": "yapcheahshen@gmail.com",
     "license": "CC0",
+    "homepage":"https://github.com/accelon/lit",
     "rootdir":"zip/",
     "errata":"errata.json",
     "eudc":"eudc.json",
     "format":"lit",
-    "files":["lit_6.zip","lit_12.zip","lit_14.zip","lit_19.zip"]
+    "labels":{
+        "bk":["LabelBook",{"resets":"c"}],
+        "c":"LabelChapter", 
+        "b":"Label", 
+        "mc":"Label"
+    },
+    "files":"lit_6.zip,lit_8.zip,lit_10.zip,lit_12.zip,lit_14.zip,lit_17.zip,lit_18.zip,lit_19.zip,lit_20.zip,lit_38.zip,lit_39.zip,lit_76.zip,lit_86.zip,lit_87.zip,lit_90.zip,lit_91.zip,lit_92.zip,lit_93.zip,lit_96.zip,lit_97.zip,lit_98.zip,lit_100.zip,lit_132.zip,lit_140.zip,lit_145.zip,lit_147.zip,lit_148.zip,lit_159.zip,lit_230.zip,lit_231.zip,lit_298.zip,lit_390.zip,lit_415.zip"
 }
