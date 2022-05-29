@@ -1,4 +1,4 @@
-{
+export default {
     "WBBT":"^d[體]",
     "WBQ":"^d[用]",
     "WOAR":"^d[倉]",

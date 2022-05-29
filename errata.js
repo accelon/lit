@@ -1,4 +1,4 @@
-{
+export default {
     "1373.html":[ ["<東尼！東尼！>","〈東尼！東尼！〉"]  ],
     "2981.html":[["立人<img src=/mpf//.BMP align=absmiddle border=0>我","立人▉我"] ],
     "5878.html":[["</b><br>　　一說祖師辯曰","<br>　　一說祖師辯曰"] ],

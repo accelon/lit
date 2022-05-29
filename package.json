@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/accelon/openlit/issues"
   },
-  "homepage": "https://github.com/accelon/openlit#readme"
+  "homepage": "https://github.com/accelon/openlit#readme",
+  "dependencies": {
+    "jszip": "^3.10.0"
+  }
 }
